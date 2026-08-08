@@ -1,5 +1,5 @@
 # What I did today
-#  2:30 min - Today aws topic hands on
+#  2:30 min- Today aws topic hands on
 # 30 min coding
 # 1 hr - extra video about aws
 # 1:30 min practise for evening class

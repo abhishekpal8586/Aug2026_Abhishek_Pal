@@ -11,6 +11,5 @@
 ## Tomorrow's Task
 # attend class in the morning
 # then hands on practise
-# practise for evening class
-# and speaking english for interview
+# practise for evening class and speaking english for interview
 #45 min coding
